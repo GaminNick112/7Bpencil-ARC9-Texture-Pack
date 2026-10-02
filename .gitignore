@@ -1,0 +1,10 @@
+*.zip
+textures/
+ready/
+experimental_weapon_uv/
+decoded_png/
+extracted/
+preview/
+release_assets/
+*.vtf
+*.gma
